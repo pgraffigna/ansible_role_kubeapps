@@ -1,10 +1,6 @@
 # vagrant_kubeapps
 
-Vagrantfile para crear un cluster Kubernetes con Minikube para usar Kubeapps vía Helm.
+Playbook role para crear un cluster Kubernetes con Minikube para instalar Kubeapps vía Helm.
 
-Testeado con Virtualbox
+Testeado con Virtualbox + vagrant.
 
----
-TO-DO
-- Acceder al Dashboard de Kubeapps
-- Testing en VM con Ubuntu-Server
